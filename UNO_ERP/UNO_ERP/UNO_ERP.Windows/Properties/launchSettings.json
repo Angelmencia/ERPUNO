@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UNO_ERP.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
